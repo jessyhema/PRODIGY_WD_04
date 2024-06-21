@@ -25,7 +25,8 @@
 * Customization and Scalability:The structure allows for easy updates and additions as you complete more projects or gain new skills.
 
 ## Image
-"C:\Users\betha\OneDrive\Pictures\PerPortfolio.png"
+![PerPortfolio](https://github.com/jessyhema/PRODIGY_WD_04/assets/143420058/0dd7dac6-eca4-464b-ac00-6220aed168c4)
+
 
 
 
