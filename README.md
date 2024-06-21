@@ -1,4 +1,4 @@
-# PRODIGY_WD_04(PERSONAL PORTFOLIO WEB APPLICATION)
+# PRODIGY_WD_04(PERSONAL PORTFOLIO WEBSITE)
 ## FEATURES
 * Home Section: A welcoming introduction to the website, providing a brief overview of who you are and what you do.
 * About Section: Detailed information about your background, skills, and experiences.
